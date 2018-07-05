@@ -1,0 +1,7 @@
+rootProject.name = 'spring-cloud'
+include 'limits-service'
+include 'config-server'
+include 'currency-exchange-service'
+include 'currency-convertion-service'
+include 'netflix-eureka-naming-server'
+include 'netflix-zuul-api-gateway-server'
